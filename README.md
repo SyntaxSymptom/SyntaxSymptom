@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyntaxSymptom
 - 👀 I’m interested in learning, technology, art, and much more!
-- 🌱 I’m currently learning how to code. I know HTML and CSS. I'm looking to learn either JavaScript or Python next.
+- 🌱 I’m currently learning how to code. I know HTML,CSS,and JavaScript. Learning WordPress and PhP.
 - 💞️ I’m looking to collaborate on any passion projects! The best way to learn is by doing.
 - 📫 How to reach me: Please inquire by my business email--> draequon95@gmail.com
 
